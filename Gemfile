@@ -34,6 +34,7 @@ gem 'figaro'
 gem 'yelp', require: 'yelp'
 gem 'responders'
 gem 'react-rails'
+gem 'materialize-sass'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
